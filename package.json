@@ -1,0 +1,9 @@
+{
+  "name": "npx-aaron",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "safethecode <iam@sonjim.in>",
+  "description": "⚙️ __init__(self): self.introduce = safethecode",
+  "main": "index.js",
+  "repository": "https://github.com/safethecode/npx-aaron.git"
+}
